@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, Eu sou Miguel! 👋
 
-<!--
-**th3oph1l0/th3oph1l0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedor apaixonado por criar soluções inovadoras, aprender novas tecnologias e colaborar em projetos desafiadores. Gosto de compartilhar conhecimento e sempre estou aberto a aprender com outros profissionais. Atualmente, estou focado em [área de interesse atual, ex: front-end, back-end, IA, etc.].
+
+## 🌱 Atualmente Estou Aprendendo
+
+- Aprendendo mais sobre **Machine Learning e IA**.
+- Aprofundando meus conhecimentos em **Docker e Kubernetes**.
+- Explorando novos frameworks para **desenvolvimento full-stack**.
+
+## 🤝 Vamos Conversar
+
+Estou sempre aberto a conversar sobre projetos, novas ideias e como podemos colaborar juntos! Me mande uma mensagem:
+
+- **E-mail**: miguel.theophilo@gmail.com.com
