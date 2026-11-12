@@ -27,8 +27,8 @@ Sou um desenvolvedor em formação que une a lógica da engenharia de software c
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true" height="160" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent&hide_border=true" height="160" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=th3oph1l0&show_icons=true&theme=transparent&hide_border=true" height="160" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3oph1l0&layout=compact&theme=transparent&hide_border=true" height="160" alt="Linguagens Mais Usadas"/>
 </div>
 
 ---
